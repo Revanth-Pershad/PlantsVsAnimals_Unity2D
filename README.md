@@ -1,5 +1,8 @@
 # Glitch Garden
-This is a clone of the game Plants vs Zombies.<br />But with Plants vs Animals.<br />This was made using Unity Game Engine with C#.<br /><br />
+This is a clone of the game Plants vs Zombies.<br />But with Plants vs Animals.<br />This was made using Unity Game Engine with C#.
+<br /><br />
+<h4 align ="center">Loading Scene</h4>
+<br />
 ![Screenshot (11)](https://user-images.githubusercontent.com/70310699/164892209-d8e15c52-3cbf-4761-b7d1-1efc3d902812.png)
 <br /><br />
 ![Screenshot (12)](https://user-images.githubusercontent.com/70310699/164892228-49ca2770-d08c-4f21-8997-946c9e8ae2de.png)
